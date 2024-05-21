@@ -1,4 +1,3 @@
-Thành viên nhóm: Nguyễn Quỳnh Như - Nguyễn Huỳnh Gia Huy - Tạ Hữu Nhân - Nguyễn Văn Thịnh 
 Cách chạy code : 
 
 Bước 1: Cài đặt Python và pip
